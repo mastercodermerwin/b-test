@@ -1,3 +1,3 @@
 # b-test
 
-bb
+bb a
