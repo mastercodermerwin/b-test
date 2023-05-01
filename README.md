@@ -1,5 +1,3 @@
 # b-test
 
-bb
-
-p
+bb a
